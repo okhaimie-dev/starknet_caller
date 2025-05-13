@@ -1813,7 +1813,6 @@ dependencies = [
 name = "starknet_caller"
 version = "0.1.0"
 dependencies = [
- "serde",
  "starknet",
  "tokio",
 ]
